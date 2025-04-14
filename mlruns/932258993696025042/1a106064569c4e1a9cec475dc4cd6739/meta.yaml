@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/1a106064569c4e1a9cec475dc4cd6739/artifacts
+end_time: 1740570526117
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 1a106064569c4e1a9cec475dc4cd6739
+run_name: lyrical-perch-436
+run_uuid: 1a106064569c4e1a9cec475dc4cd6739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570520454
+status: 3
+tags: []
+user_id: anouar

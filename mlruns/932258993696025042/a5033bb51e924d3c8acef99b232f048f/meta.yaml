@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/a5033bb51e924d3c8acef99b232f048f/artifacts
+end_time: 1739357615522
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: a5033bb51e924d3c8acef99b232f048f
+run_name: brawny-bass-432
+run_uuid: a5033bb51e924d3c8acef99b232f048f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739357615481
+status: 3
+tags: []
+user_id: anouar

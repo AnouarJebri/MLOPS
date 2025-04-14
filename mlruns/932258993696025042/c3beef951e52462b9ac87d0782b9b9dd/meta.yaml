@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/c3beef951e52462b9ac87d0782b9b9dd/artifacts
+end_time: 1740953509333
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: c3beef951e52462b9ac87d0782b9b9dd
+run_name: puzzled-whale-462
+run_uuid: c3beef951e52462b9ac87d0782b9b9dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740953503139
+status: 3
+tags: []
+user_id: anouar

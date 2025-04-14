@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/84032585aaf94b488e87d62cd4db2d9d/artifacts
+end_time: 1740570427606
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 84032585aaf94b488e87d62cd4db2d9d
+run_name: funny-ant-64
+run_uuid: 84032585aaf94b488e87d62cd4db2d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570427601
+status: 3
+tags: []
+user_id: anouar

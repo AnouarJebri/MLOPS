@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/263793200d0b4210a7cecf703442cdfb/artifacts
+end_time: 1739356186299
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 263793200d0b4210a7cecf703442cdfb
+run_name: lyrical-frog-493
+run_uuid: 263793200d0b4210a7cecf703442cdfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739356182802
+status: 3
+tags: []
+user_id: anouar

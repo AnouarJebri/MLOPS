@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/aa4271f922e0483a8f4fb67ed1569339/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa4271f922e0483a8f4fb67ed1569339
+run_name: persistent-steed-448
+run_uuid: aa4271f922e0483a8f4fb67ed1569339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741176325585
+status: 1
+tags: []
+user_id: anouar

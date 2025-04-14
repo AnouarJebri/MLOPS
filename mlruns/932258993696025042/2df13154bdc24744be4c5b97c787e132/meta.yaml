@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/2df13154bdc24744be4c5b97c787e132/artifacts
+end_time: 1740562788932
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 2df13154bdc24744be4c5b97c787e132
+run_name: intrigued-robin-172
+run_uuid: 2df13154bdc24744be4c5b97c787e132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740562788926
+status: 3
+tags: []
+user_id: anouar

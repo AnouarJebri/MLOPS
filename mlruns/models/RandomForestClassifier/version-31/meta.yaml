@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740570196000
+current_stage: Staging
+description: null
+last_updated_timestamp: 1740570196019
+name: RandomForestClassifier
+run_id: cc41b7b9796f4a1da44d7492d04d46d3
+run_link: null
+source: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/cc41b7b9796f4a1da44d7492d04d46d3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/cc41b7b9796f4a1da44d7492d04d46d3/artifacts/model
+user_id: null
+version: 31

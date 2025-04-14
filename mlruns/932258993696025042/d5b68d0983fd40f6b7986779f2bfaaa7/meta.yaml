@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/d5b68d0983fd40f6b7986779f2bfaaa7/artifacts
+end_time: 1740559809521
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: d5b68d0983fd40f6b7986779f2bfaaa7
+run_name: useful-slug-649
+run_uuid: d5b68d0983fd40f6b7986779f2bfaaa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740559798293
+status: 3
+tags: []
+user_id: anouar

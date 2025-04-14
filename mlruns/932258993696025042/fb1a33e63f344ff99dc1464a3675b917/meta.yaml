@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/fb1a33e63f344ff99dc1464a3675b917/artifacts
+end_time: 1740495170521
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: fb1a33e63f344ff99dc1464a3675b917
+run_name: monumental-cow-581
+run_uuid: fb1a33e63f344ff99dc1464a3675b917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740495170490
+status: 4
+tags: []
+user_id: anouar

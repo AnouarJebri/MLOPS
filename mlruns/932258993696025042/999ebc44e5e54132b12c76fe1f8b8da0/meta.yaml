@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/999ebc44e5e54132b12c76fe1f8b8da0/artifacts
+end_time: 1740950226305
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 999ebc44e5e54132b12c76fe1f8b8da0
+run_name: bright-duck-72
+run_uuid: 999ebc44e5e54132b12c76fe1f8b8da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740950226295
+status: 3
+tags: []
+user_id: anouar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/23321691cd2d4754954531ab40468279/artifacts
+end_time: 1740950604578
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 23321691cd2d4754954531ab40468279
+run_name: handsome-flea-179
+run_uuid: 23321691cd2d4754954531ab40468279
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740950604569
+status: 3
+tags: []
+user_id: anouar

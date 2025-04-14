@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/08e6f88b046c47108bc25b67fc84c7d1/artifacts
+end_time: 1740953772975
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 08e6f88b046c47108bc25b67fc84c7d1
+run_name: unique-skink-357
+run_uuid: 08e6f88b046c47108bc25b67fc84c7d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740953767265
+status: 3
+tags: []
+user_id: anouar

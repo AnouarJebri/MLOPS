@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/97fa0cc1d2fa4d00a902cb3840e30fd6/artifacts
+end_time: 1740950454625
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 97fa0cc1d2fa4d00a902cb3840e30fd6
+run_name: gaudy-hare-599
+run_uuid: 97fa0cc1d2fa4d00a902cb3840e30fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740950454615
+status: 3
+tags: []
+user_id: anouar

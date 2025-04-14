@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/046e92d34d16445ebbc574f9c8e88fa5/artifacts
+end_time: 1740694237719
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 046e92d34d16445ebbc574f9c8e88fa5
+run_name: dashing-bee-308
+run_uuid: 046e92d34d16445ebbc574f9c8e88fa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740694233308
+status: 3
+tags: []
+user_id: anouar

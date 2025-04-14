@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/a0861b232fd5411c90ab97cc8d7b3d08/artifacts
+end_time: 1740948435283
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: a0861b232fd5411c90ab97cc8d7b3d08
+run_name: magnificent-gull-32
+run_uuid: a0861b232fd5411c90ab97cc8d7b3d08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740948435274
+status: 3
+tags: []
+user_id: anouar

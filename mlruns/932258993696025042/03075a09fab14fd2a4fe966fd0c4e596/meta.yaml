@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/03075a09fab14fd2a4fe966fd0c4e596/artifacts
+end_time: 1740950620071
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 03075a09fab14fd2a4fe966fd0c4e596
+run_name: nebulous-hawk-678
+run_uuid: 03075a09fab14fd2a4fe966fd0c4e596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740950620050
+status: 3
+tags: []
+user_id: anouar

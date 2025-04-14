@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/69f3c01c55c14e27b378149fda117120/artifacts
+end_time: 1739357549736
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 69f3c01c55c14e27b378149fda117120
+run_name: amazing-boar-662
+run_uuid: 69f3c01c55c14e27b378149fda117120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739357543792
+status: 3
+tags: []
+user_id: anouar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/d2fb3dd2bf0846779f4387f0baf576a5/artifacts
+end_time: 1740569039003
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: d2fb3dd2bf0846779f4387f0baf576a5
+run_name: dapper-whale-113
+run_uuid: d2fb3dd2bf0846779f4387f0baf576a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740569038997
+status: 3
+tags: []
+user_id: anouar

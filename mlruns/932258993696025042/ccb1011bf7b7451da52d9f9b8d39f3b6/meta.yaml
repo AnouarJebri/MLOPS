@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/ccb1011bf7b7451da52d9f9b8d39f3b6/artifacts
+end_time: 1740694495146
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: ccb1011bf7b7451da52d9f9b8d39f3b6
+run_name: wise-conch-333
+run_uuid: ccb1011bf7b7451da52d9f9b8d39f3b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740694491074
+status: 3
+tags: []
+user_id: anouar

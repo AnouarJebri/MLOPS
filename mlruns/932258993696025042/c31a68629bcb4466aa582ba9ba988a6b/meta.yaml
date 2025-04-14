@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/c31a68629bcb4466aa582ba9ba988a6b/artifacts
+end_time: 1739357442093
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: c31a68629bcb4466aa582ba9ba988a6b
+run_name: useful-zebra-817
+run_uuid: c31a68629bcb4466aa582ba9ba988a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739357442085
+status: 3
+tags: []
+user_id: anouar

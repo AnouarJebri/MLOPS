@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b41bcdfd7eb4e17824a814707ae688e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b41bcdfd7eb4e17824a814707ae688e
+run_name: delightful-swan-291
+run_uuid: 7b41bcdfd7eb4e17824a814707ae688e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741131983700
+status: 1
+tags: []
+user_id: anouar

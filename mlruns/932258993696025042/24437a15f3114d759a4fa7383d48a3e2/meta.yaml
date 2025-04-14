@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/24437a15f3114d759a4fa7383d48a3e2/artifacts
+end_time: 1740570520388
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 24437a15f3114d759a4fa7383d48a3e2
+run_name: bustling-ram-89
+run_uuid: 24437a15f3114d759a4fa7383d48a3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570520383
+status: 3
+tags: []
+user_id: anouar

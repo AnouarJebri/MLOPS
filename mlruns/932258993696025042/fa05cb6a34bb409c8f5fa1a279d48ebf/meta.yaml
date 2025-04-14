@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/fa05cb6a34bb409c8f5fa1a279d48ebf/artifacts
+end_time: 1740570254836
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: fa05cb6a34bb409c8f5fa1a279d48ebf
+run_name: clean-panda-710
+run_uuid: fa05cb6a34bb409c8f5fa1a279d48ebf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570254827
+status: 3
+tags: []
+user_id: anouar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/d17a12a00b624d77849d297dee55a2ba/artifacts
+end_time: 1740570419821
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: d17a12a00b624d77849d297dee55a2ba
+run_name: omniscient-kite-257
+run_uuid: d17a12a00b624d77849d297dee55a2ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570413847
+status: 3
+tags: []
+user_id: anouar

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/c8ce3b3dcc3a4d3795cad912fd561b2a/artifacts
+end_time: 1740948730152
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: c8ce3b3dcc3a4d3795cad912fd561b2a
+run_name: whimsical-wasp-156
+run_uuid: c8ce3b3dcc3a4d3795cad912fd561b2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740948730139
+status: 3
+tags: []
+user_id: anouar

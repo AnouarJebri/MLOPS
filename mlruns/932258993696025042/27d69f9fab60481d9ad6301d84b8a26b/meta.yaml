@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/27d69f9fab60481d9ad6301d84b8a26b/artifacts
+end_time: 1739352570967
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 27d69f9fab60481d9ad6301d84b8a26b
+run_name: clean-shrimp-942
+run_uuid: 27d69f9fab60481d9ad6301d84b8a26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352567628
+status: 3
+tags: []
+user_id: anouar

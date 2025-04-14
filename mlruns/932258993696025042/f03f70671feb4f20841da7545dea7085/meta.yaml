@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/f03f70671feb4f20841da7545dea7085/artifacts
+end_time: 1740949965770
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: f03f70671feb4f20841da7545dea7085
+run_name: wise-crab-438
+run_uuid: f03f70671feb4f20841da7545dea7085
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740949965753
+status: 3
+tags: []
+user_id: anouar

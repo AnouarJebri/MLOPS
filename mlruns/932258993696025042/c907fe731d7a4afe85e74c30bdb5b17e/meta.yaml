@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/c907fe731d7a4afe85e74c30bdb5b17e/artifacts
+end_time: 1740946026028
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: c907fe731d7a4afe85e74c30bdb5b17e
+run_name: resilient-bird-89
+run_uuid: c907fe731d7a4afe85e74c30bdb5b17e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740946018811
+status: 3
+tags: []
+user_id: anouar

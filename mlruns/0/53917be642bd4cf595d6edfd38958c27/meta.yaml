@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/53917be642bd4cf595d6edfd38958c27/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53917be642bd4cf595d6edfd38958c27
+run_name: brawny-squirrel-666
+run_uuid: 53917be642bd4cf595d6edfd38958c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741170956317
+status: 1
+tags: []
+user_id: anouar

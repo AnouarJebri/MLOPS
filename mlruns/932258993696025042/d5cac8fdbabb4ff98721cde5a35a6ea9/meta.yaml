@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/d5cac8fdbabb4ff98721cde5a35a6ea9/artifacts
+end_time: 1740570146123
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: d5cac8fdbabb4ff98721cde5a35a6ea9
+run_name: painted-ant-940
+run_uuid: d5cac8fdbabb4ff98721cde5a35a6ea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570146116
+status: 3
+tags: []
+user_id: anouar

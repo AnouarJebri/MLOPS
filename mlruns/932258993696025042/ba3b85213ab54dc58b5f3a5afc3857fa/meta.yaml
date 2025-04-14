@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/ba3b85213ab54dc58b5f3a5afc3857fa/artifacts
+end_time: 1740570427684
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: ba3b85213ab54dc58b5f3a5afc3857fa
+run_name: suave-loon-759
+run_uuid: ba3b85213ab54dc58b5f3a5afc3857fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570427672
+status: 3
+tags: []
+user_id: anouar

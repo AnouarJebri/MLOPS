@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/58c7ebebfb3141b5a35bb2bf1c47ad4e/artifacts
+end_time: 1740691647068
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 58c7ebebfb3141b5a35bb2bf1c47ad4e
+run_name: selective-stoat-809
+run_uuid: 58c7ebebfb3141b5a35bb2bf1c47ad4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740691647056
+status: 3
+tags: []
+user_id: anouar

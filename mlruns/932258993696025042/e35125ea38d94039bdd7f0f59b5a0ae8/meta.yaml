@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/e35125ea38d94039bdd7f0f59b5a0ae8/artifacts
+end_time: 1739356178636
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: e35125ea38d94039bdd7f0f59b5a0ae8
+run_name: unequaled-loon-96
+run_uuid: e35125ea38d94039bdd7f0f59b5a0ae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739356178630
+status: 3
+tags: []
+user_id: anouar

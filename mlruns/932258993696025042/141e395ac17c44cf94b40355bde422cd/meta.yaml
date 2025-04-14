@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/141e395ac17c44cf94b40355bde422cd/artifacts
+end_time: 1739352453676
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 141e395ac17c44cf94b40355bde422cd
+run_name: sassy-loon-789
+run_uuid: 141e395ac17c44cf94b40355bde422cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739352449873
+status: 3
+tags: []
+user_id: anouar

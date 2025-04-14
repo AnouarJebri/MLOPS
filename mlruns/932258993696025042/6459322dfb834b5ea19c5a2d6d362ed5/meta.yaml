@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/6459322dfb834b5ea19c5a2d6d362ed5/artifacts
+end_time: 1740495262701
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 6459322dfb834b5ea19c5a2d6d362ed5
+run_name: receptive-robin-896
+run_uuid: 6459322dfb834b5ea19c5a2d6d362ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740495255966
+status: 4
+tags: []
+user_id: anouar

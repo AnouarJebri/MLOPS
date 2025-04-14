@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/5e20b3c3150d4a10993af6bf0e807515/artifacts
+end_time: 1740570146177
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: 5e20b3c3150d4a10993af6bf0e807515
+run_name: youthful-deer-645
+run_uuid: 5e20b3c3150d4a10993af6bf0e807515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740570146170
+status: 3
+tags: []
+user_id: anouar

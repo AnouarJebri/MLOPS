@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/e8b73cd4ff19417f8d1fac4c9e84c30a/artifacts
+end_time: 1740949507348
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: e8b73cd4ff19417f8d1fac4c9e84c30a
+run_name: sincere-bass-528
+run_uuid: e8b73cd4ff19417f8d1fac4c9e84c30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740949507340
+status: 3
+tags: []
+user_id: anouar

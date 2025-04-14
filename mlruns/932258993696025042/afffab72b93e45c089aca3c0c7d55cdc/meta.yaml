@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/anouar-jebri-4DS4-ml_project/mlruns/932258993696025042/afffab72b93e45c089aca3c0c7d55cdc/artifacts
+end_time: 1740946002549
+entry_point_name: ''
+experiment_id: '932258993696025042'
+lifecycle_stage: active
+run_id: afffab72b93e45c089aca3c0c7d55cdc
+run_name: clumsy-conch-896
+run_uuid: afffab72b93e45c089aca3c0c7d55cdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740945995031
+status: 3
+tags: []
+user_id: anouar
